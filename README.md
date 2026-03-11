@@ -1,5 +1,3 @@
-# LLM-Powered-Database-Chatbot
-LLM-powered database chatbot that converts natural language questions into SQL queries and returns human-like answers using MySQL, PHP APIs, Python, and the Mistral-7B model from Hugging Face.
 # LLM-Powered Database Chatbot
 
 An intelligent chatbot system that allows users to query a MySQL database using natural language.  
