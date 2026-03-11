@@ -199,7 +199,7 @@ http://localhost:8000/api.php
 }
 ```
 
----
+-----
 
 # Example API Response
 
